@@ -8,10 +8,10 @@ dependencies:
   src: "htmlwidgets/lib/dagre-d3"
   script: "dagre-d3.min.js"
 - name: mermaid
-  version: 0.3.0
+  version: 10.6.0
   src: htmlwidgets/lib/mermaid
   script: dist/mermaid.slim.min.js
-  stylesheet: dist/mermaid.css
+  #stylesheet: dist/mermaid.css
 - name: DiagrammeR-styles
   version: 0.2
   src: htmlwidgets/lib/styles
